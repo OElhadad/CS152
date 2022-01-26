@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 
-public class Problem1 {
+public class SalespersonofTheMonth {
 
   public static void main(String[] args) throws IOException {
     // Initializing text file object to read given text file
